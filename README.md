@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-Full stack engineer @manulife
+Western Engineering Gradute, Full stack engineer @manulife
 
 ![alt text](https://github.com/rreeves8/rreeves8/blob/main/Horizontal_Rev.gif?raw=true)
 
